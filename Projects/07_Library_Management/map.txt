@@ -1,0 +1,15 @@
+return book
+
+apni book
+arg in arg
+    arg in apni book false
+      if arg in apni book 
+           remove from apni book
+           add to library book
+           removed book = [removed books]
+    if not arg in apni book
+        you don't have any book
+
+if removed books:
+    for book in removed books:
+        print book
