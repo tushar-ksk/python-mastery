@@ -1,0 +1,4 @@
+Hello MY friends.
+My name is Tushar Sharma.
+Today I am learing Python.
+Just for fun.

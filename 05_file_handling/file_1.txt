@@ -1,0 +1,25 @@
+🧠 RAM (Random Access Memory):
+RAM ek volatile memory hoti hai, matlab jaise hi
+light gayi ya system band hua, iska data bhi uddgaya.
+Jab aap koi program chalaate ho, jaise game 
+ya browser, toh wo temporarily RAM mein load hota hai.
+Isme data ko read bhi kar sakte hain aur write bhi.
+Iski speed tez hoti hai, taaki program fast chale.
+Par jaise hi system shutdown hota hai,
+RAM ka sara data clean ho jaata hai.
+
+📘 ROM (Read Only Memory):
+ROM ek non-volatile memory hoti hai, matlab iska data
+hamesha rehta hai – chahe system off ho jaaye. Isme 
+aap mainly sirf read kar sakte ho, likhna mushkil ya 
+impossible hota hai. 
+(kuch types like EEPROM me likha ja sakta hai,
+par woh bhi limited times).
+ROM ka use system ke startup instructions
+(jaise BIOS ya firmware) ko store karne ke liye hota hai. 
+Ye data manufacturer ke dwara likha jaata hai aur 
+generally change nahi hota.
+
+Agar aap RAM ko ek whiteboard maan lo jo har baar 
+kaam ke baad saaf ho jaata hai, toh ROM ek printed book hai 
+jo hamesha waise ki waise hi rehti hai.
