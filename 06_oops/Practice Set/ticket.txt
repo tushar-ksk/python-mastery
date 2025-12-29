@@ -1,0 +1,41 @@
+
+           >>>Booking Details<<<
+           
+        Name           >>> Tushar
+        Depot          >>> Delhi
+        Class          >>> 2S
+        Starting Point >>> Delhi
+        Stopping Point >>> Karnal
+        Price          >>> 90
+        Time Taken     >>> 2 hrs 25 min
+        
+           >>>Booking Details<<<
+
+        Name           >>> Tushar
+        Depot          >>> Delhi
+        Class          >>> SL
+        Starting Point >>> Delhi
+        Stopping Point >>> Rewari
+        Price          >>> 175
+        Time Taken     >>> 4 hrs
+        
+           >>>Booking Details<<<
+
+        Name           >>> Tushar
+        Depot          >>> Delhi
+        Class          >>> General
+        Starting Point >>> Delhi
+        Stopping Point >>> Jind
+        Price          >>> 60
+        Time Taken     >>> 2 hrs 50 min
+        
+           >>>Booking Details<<<
+
+        Name           >>> Tushar
+        Depot          >>> Delhi
+        Class          >>> SL
+        Starting Point >>> Delhi
+        Stopping Point >>> Udaipur
+        Price          >>> 430
+        Time Taken     >>> 16 hrs
+        
