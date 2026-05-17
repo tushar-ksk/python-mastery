@@ -1,4 +1,4 @@
-f= open("myfile.txt")
+f = open("myfile.txt")
 print(f.read())
 f.close
 # The same can be written using with statement so that we have not to close file

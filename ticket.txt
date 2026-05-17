@@ -1,0 +1,11 @@
+
+           >>>Booking Details<<<
+
+        Name           >>> Soham
+        Depot          >>> Delhi
+        Class          >>> 3A
+        Starting Point >>> Delhi
+        Stopping Point >>> Panipat
+        Price          >>> 505
+        Time Taken     >>> 2 hrs
+        
