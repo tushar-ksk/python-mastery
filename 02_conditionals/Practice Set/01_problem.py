@@ -1,6 +1,6 @@
 #  finding the greatest number
 
-a1 = int(input("Enter the first  number: "))
+a1 = int(input("Enter the first number: "))
 a2 = int(input("Enter the second number: "))
 a3 = int(input("Enter the thrid number: "))
 a4 = int(input("Enter the fourth number: "))
@@ -15,4 +15,4 @@ elif (a3>a1 and a1>a2 and a1>a4):
     print("The greates number is",a3)
 
 else:
-    print("The greates number is",a4)    
+    print("The greatest number is",a4)    
