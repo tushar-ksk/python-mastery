@@ -17,12 +17,14 @@ client = genai.Client(api_key=API_KEY)
 def get_response(file_name, user_prompt):
     print(f"Filename: {file_name}")
     print(f"Prompt: {user_prompt}")
+    file_content = ""
     try:
         with open(file_name, "r") as f:
             file_content = f.read()
     except FileNotFoundError as e:
-        return f"File not found error: {e}"
-
+        # return f"File not found error: {e}"
+        # if we use above return then function will exit and won't create new file, so we will just print error and continue execution to create new file
+        print(f"File '{file_name}' not found. A new one will be created.")
     PARTS = """You are a strict code-generation engine.
 
 Your job is to generate ONLY source code based on the user's instruction.
@@ -66,6 +68,7 @@ User instruction:
         )
 
         final_code = response.text
+        print(final_code)
         if final_code:
             with open(file_name, "w") as f:
                 f.write(final_code)
